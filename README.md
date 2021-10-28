@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mapleia
-- 👀 I’m interested in all aspects of web related development (full stack!)
+- 👀 I’m interested in all aspects of web related development (full stack!) and love to draw and paint digitally!
 - 🌱 I’m currently learning cloud services & backend authentication.
 - 💞️ I’m looking to collaborate on any projects! Please feel free to reach out! <3
 - 📫 How to reach me: mapleia01@gmail.com
